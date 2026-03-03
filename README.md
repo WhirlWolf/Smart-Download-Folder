@@ -4,7 +4,7 @@
 </p>
   
 # Smart-Download-Folder
-Automatically sort files in Download folder based on the file type.
+Automatically sort files in the download folder based on the file type.
 </div>
 
 ---

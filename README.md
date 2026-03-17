@@ -14,7 +14,7 @@ Automatically sort files in the download folder based on the file type.
 
 ## Setup Instructions
 1. [Install](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) and setup tasker.
-2. [Import](https://taskernet.com/shares/?user=AS35m8m8L9YzBV3qbzaAAqHiSYXYBbD3QfZ7hr0hRK4ojOFTCrjWh2CScbjMw4NaudRi1zKKzq85&id=Project%3AWuzzApp) project and follow setup instructions.
+2. [Import](https://taskernet.com/shares/?user=AS35m8m8L9YzBV3qbzaAAqHiSYXYBbD3QfZ7hr0hRK4ojOFTCrjWh2CScbjMw4NaudRi1zKKzq85&id=Project%3ASmart+Download+Folder) project and follow setup instructions.
 3. Ensure the profile is enabled.
 
 ## Features
